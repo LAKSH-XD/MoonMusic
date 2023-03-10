@@ -41,6 +41,16 @@
         "value": "",
         "required": true
       },
+      "START_IMG": {
+        "description": "Jai Shree Ram",
+        "value": "",
+        "required": true
+      },
+      "PING_IMG": {
+        "description": "Jai Shree Ram",
+        "value": "",
+        "required": true
+      },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
         "value": "https://t.me/DevilsHeavenMF",
